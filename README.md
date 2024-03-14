@@ -4,11 +4,11 @@ This project implements the MiniMax adversarial search algorithm and its variant
 
 ## Installation
 1. Clone the repository.
-2. Run the program with Python 3:
-python filename ALGO FIRST MODE
-where: ALGO: 1 for MiniMax or 2 for MiniMax with alpha-beta pruning.
-       FIRST: who begins the game 'X' or 'O'.
-       MODE: 1 for human (X) versus computer (O) or 2 for computer (X) versus computer (O).
+2. Run the program with Python 3:  
+python filename ALGO FIRST MODE  
+where: ALGO: 1 for MiniMax or 2 for MiniMax with alpha-beta pruning.  
+       FIRST: who begins the game 'X' or 'O'.  
+       MODE: 1 for human (X) versus computer (O) or 2 for computer (X) versus computer (O).  
     
 ## Usage
 To play against the computer, execute the program with appropriate command line arguments.
